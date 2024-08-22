@@ -1,0 +1,17 @@
+[
+    {
+        "timestamp": "2024-08-16 05:43:48",
+        "user_data": {
+            "city": "Toronto",
+            "house_size": 1500,
+            "insulation": "good",
+            "appliances_condition": "new",
+            "preference": "cost-saving",
+            "recommendations": {
+                "AI-based": "Consider upgrading to a smart thermostat to save on heating costs.",
+                "Rule-based": "Maintain your insulation to retain heat."
+            }
+        },
+        "feedback": 4
+    }
+]
